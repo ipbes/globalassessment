@@ -1,3 +1,7 @@
+# About
 IPBES is to perform regular and timely assessments of knowledge on biodiversity and ecosystem services and their interlinkages at the global level. Also addressing an invitation by the Conference of the Parties of the Convention on Biological Diversity (CBD) to prepare a global assessment of biodiversity and ecosystem services building, inter alia, on its own and other relevant regional, subregional and thematic assessments, as well as on national reports.
 
 The overall scope of the assessment is to assess the status and trends with regard to biodiversity and ecosystem services, the impact of biodiversity and ecosystem services on human well-being and the effectiveness of responses, including the Strategic Plan and its Aichi Biodiversity Targets. It is anticipated that this deliverable will contribute to the process for the evaluation and renewal of the Strategic Plan for Biodiversity and its Aichi Biodiversity Targets.
+
+# Objective
+Repository for data, and the codes and algorithms used to generate the global assessment. Wherever possible, the original datasets and derived outputs should be cited using a digital object identifier, to ensure full transparency, reproducibility and attribution. Data outputs, codes and algorithms should be archived using external repositories and linked to specific assessments using appropriate and standardized metadata. The data centre could be managed by external partners in coordination with the technical support unit on knowledge and data
