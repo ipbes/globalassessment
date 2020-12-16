@@ -6,14 +6,14 @@ The overall scope of the IPBES global assessment is to assess the status and tre
 # Summary for policymakers
 IPBES (2019): Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. S. Díaz, J. Settele, E. S. Brondízio E.S., H. T. Ngo, M. Guèze, J. Agard, A. Arneth, P. Balvanera, K. A. Brauman, S. H. M. Butchart, K. M. A. Chan, L. A. Garibaldi, K. Ichii, J. Liu, S. M. Subramanian, G. F. Midgley, P. Miloslavich, Z. Molnár, D. Obura, A. Pfaff, S. Polasky, A. Purvis, J. Razzaque, B. Reyers, R. Roy Chowdhury, Y. J. Shin, I. J. Visseren-Hamakers, K. J. Willis, and C. N. Zayas (eds.). IPBES secretariat, Bonn, Germany. 56 pages. https://doi.org/10.5281/zenodo.3553458
 
-Arabic: https://doi.org/10.5281/zenodo.3826589 
-Chinese: https://doi.org/10.5281/zenodo.3826603 
-English: https://doi.org/10.5281/zenodo.3553458
-French: https://doi.org/10.5281/zenodo.3826599
-Russian: https://doi.org/10.5281/zenodo.3826616 
-Spanish: https://doi.org/10.5281/zenodo.3826597 
-Czech: https://doi.org/10.5281/zenodo.4049924
-Japanese: https://doi.org/10.5281/zenodo.3826698 
+- Arabic: https://doi.org/10.5281/zenodo.3826589 
+- Chinese: https://doi.org/10.5281/zenodo.3826603 
+- English: https://doi.org/10.5281/zenodo.3553458
+- French: https://doi.org/10.5281/zenodo.3826599
+- Russian: https://doi.org/10.5281/zenodo.3826616 
+- Spanish: https://doi.org/10.5281/zenodo.3826597 
+- Czech: https://doi.org/10.5281/zenodo.4049924
+- Japanese: https://doi.org/10.5281/zenodo.3826698 
 
 # Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services
 IPBES (2019): Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. E. S. Brondizio, J. Settele, S. Díaz, and H. T. Ngo (editors). IPBES secretariat, Bonn, Germany. XXX pages. https://doi.org/10.5281/zenodo.3831674
@@ -21,7 +21,7 @@ IPBES (2019): Global assessment report on biodiversity and ecosystem services of
 # Chapter 1. Assessing a planet in transformation: Rationale and approach of the IPBES Global Assessment on Biodiversity and Ecosystem Services
 DOI: https://doi.org/10.5281/zenodo.3831852
 
-# Chapter 2.1 Status and trends - Drivers of change
+# Chapter 2.1. Status and trends - Drivers of change
 DOI: https://doi.org/10.5281/zenodo.3831881
 
 # Chapter 2.2 Status and trends - Nature
