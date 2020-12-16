@@ -3,12 +3,6 @@ Repository for data, and the codes and algorithms used in the IPBES (www.ipbes.n
 
 The overall scope of the IPBES global assessment is to assess the status and trends with regard to biodiversity and ecosystem services, the impact of biodiversity and ecosystem services on human well-being and the effectiveness of responses, including the Strategic Plan and its Aichi Biodiversity Targets. It is anticipated that this deliverable will contribute to the process for the evaluation and renewal of the Strategic Plan for Biodiversity and its Aichi Biodiversity Targets.
 
-
-
-
-
-
-
 # Summary for policymakers
 IPBES (2019): Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. S. Díaz, J. Settele, E. S. Brondízio E.S., H. T. Ngo, M. Guèze, J. Agard, A. Arneth, P. Balvanera, K. A. Brauman, S. H. M. Butchart, K. M. A. Chan, L. A. Garibaldi, K. Ichii, J. Liu, S. M. Subramanian, G. F. Midgley, P. Miloslavich, Z. Molnár, D. Obura, A. Pfaff, S. Polasky, A. Purvis, J. Razzaque, B. Reyers, R. Roy Chowdhury, Y. J. Shin, I. J. Visseren-Hamakers, K. J. Willis, and C. N. Zayas (eds.). IPBES secretariat, Bonn, Germany. 56 pages. https://doi.org/10.5281/zenodo.3553458
 
@@ -36,7 +30,6 @@ DOI: https://doi.org/10.5281/zenodo.3832005
 # Chapter 2.3 Status and trends - Nature's Contributions to People
 DOI: https://doi.org/10.5281/zenodo.3832035
  
-
 # Chapter 3. Assessing progress towards meeting major international objectives related to nature and nature’s contributions to people
 DOI: https://doi.org/10.5281/zenodo.3832052
 
@@ -49,6 +42,5 @@ DOI: https://doi.org/10.5281/zenodo.3832099
 # Chapter 6. Options for Decision Makers
 DOI: https://doi.org/10.5281/zenodo.3832107
 
- 
 # Contact
 registration@ipbes.net
