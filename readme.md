@@ -14,6 +14,7 @@ IPBES (2019): Summary for policymakers of the global assessment report on biodiv
 - Spanish: https://doi.org/10.5281/zenodo.3826597 
 - Czech: https://doi.org/10.5281/zenodo.4049924
 - Japanese: https://doi.org/10.5281/zenodo.3826698 
+- Vietnamese: https://doi.org/10.5281/zenodo.4727603
 
 # Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services
 IPBES (2019): Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. E. S. Brondizio, J. Settele, S. Díaz, and H. T. Ngo (editors). IPBES secretariat, Bonn, Germany. XXX pages. https://doi.org/10.5281/zenodo.3831674 [RESERVED]
