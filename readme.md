@@ -12,7 +12,10 @@ IPBES (2019): Summary for policymakers of the global assessment report on biodiv
 - French: https://doi.org/10.5281/zenodo.3826599
 - Russian: https://doi.org/10.5281/zenodo.3826616 
 - Spanish: https://doi.org/10.5281/zenodo.3826597 
+
+## Courtesy translations
 - Czech: https://doi.org/10.5281/zenodo.4049924
+- German: https://doi.org/10.5281/zenodo.5502689
 - Japanese: https://doi.org/10.5281/zenodo.3826698 
 - Vietnamese: https://doi.org/10.5281/zenodo.4727603
 - Tai: https://doi.org/10.5281/zenodo.4327515
